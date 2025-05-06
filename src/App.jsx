@@ -1,7 +1,6 @@
 import { useEffect, useState } from 'react';
 import './App.css';
 import moviesData from './assets/movies.json';
-// import './Hello.jsx';
 import Days from './Days.jsx';
 import Movies from './Movies.jsx';
 import MovieCard from './MovieCard.jsx';
